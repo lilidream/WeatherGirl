@@ -1,1 +1,5 @@
 # WeatherGirl
+
+WeatherGirl是由lili编写的基于彩云天气API和阿里云短信服务的临近降水短信预报系统
+
+其中wg2.py为主程序,需要安装有阿里云Python模块
